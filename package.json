@@ -1,0 +1,14 @@
+{
+  "name": "gimnasio",
+  "version": "1.0.0",
+  "description": "API GraphQL para gestion de gimnasio",
+  "main": "servidor.js",
+  "type": "module",
+  "scripts": {
+    "start": "node servidor.js"
+  },
+  "dependencies": {
+    "@apollo/server": "^5.5.1",
+    "graphql": "^16.14.2"
+  }
+}
